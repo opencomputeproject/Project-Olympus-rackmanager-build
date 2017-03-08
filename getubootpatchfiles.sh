@@ -1,4 +1,12 @@
 #!/bin/bash
+
+# Copyright (C) Microsoft Corporation. All rights reserved.
+#
+# This program is free software; you can redistribute it
+# and/or modify it under the terms of the GNU General Public License
+# as published by the Free Software Foundation; either version 2
+# of the License, or (at your option) any later version.
+
 TI_SDK_PATH=/home/user/source/Development/M2010/SDK/ocs-ti-sdk
 UBOOT_DIR=$TI_SDK_PATH/board-support/u-boot-2015.07+gitAUTOINC+46c915c963
 YOCTO_UBOOT_GIT=yoctoBuilds/tmp/work/ocs_am437x-poky-linux-gnueabi/u-boot-ti-staging/2015.07+gitAUTOINC+2cc2dbc876-r25/git
