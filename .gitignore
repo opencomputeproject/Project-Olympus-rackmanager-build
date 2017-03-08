@@ -1,0 +1,13 @@
+*.swp
+*.orig
+*.rej
+*~
+yoctoBuilds/*
+!yoctoBuilds/conf
+yoctoBuilds/conf/sanity_info
+yoctoBuilds/conf/templateconf.cfg
+.*project
+.settings
+yocto
+rackmanager
+.repo
